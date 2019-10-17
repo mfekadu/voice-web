@@ -1,3 +1,5 @@
+// .../profile/layout.tsx
+
 import { Localized } from 'fluent-react/compat';
 const pick = require('lodash.pick');
 import * as React from 'react';
